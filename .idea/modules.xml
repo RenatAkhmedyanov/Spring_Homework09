@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Seminar9.iml" filepath="$PROJECT_DIR$/.idea/Seminar9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task_1_1/homework08/hw08.iml" filepath="$PROJECT_DIR$/Task_1_1/homework08/hw08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task_1_1/hw09.iml" filepath="$PROJECT_DIR$/Task_1_1/hw09.iml" />
+    </modules>
+  </component>
+</project>
